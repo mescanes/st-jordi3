@@ -1,0 +1,22 @@
+{
+    "image2": {
+        "data": "hwQYABgAAAAAAAAAAJmZAAAAAAAAAACQmb3LCQAAAAAAAJmZaZmZCQAAAAAAkBlpZpYEAAAAAAAAmWGZSWaZmQAAAACQGZYpgmmIlAgAAACZFpbxj0mJlAgAAABpFpZBhEmJlQAAAABpFpZBhEmJlQAAAACZFpbxj0mJlAgAAACQGZYpghSJlAgAAAAAmWGZaRFmmQAAAAAAkBEZEUFBAAAAAAAAkJmZGZlOAAAAAAAAAACQmdntAAAAAAAAAAAAAN7tAAAAAAAAAAAAkIgOAAAAAAAAAAAAkI0AAAAAAAAAAAAA2Z0AAAAAAAAAAACQ3QkAAAAAAAAAAADZnQAAAAAAAAAAAADZCQAAAAAAAAAAAACYAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "StJordi"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAvIvAAAAAA/ycCHw8AAPBnIvcRDwAAfydid/cAAPZ3F2Z3////f3dndvf3fx938Xd3f3d2b3f/d3d3d3dvf3d3f3d3Z//wd/dmZndnD/B/b2Zvf/cPAPBv//Z/9wAA8PZm9nf/APD/Zvb/f2YP8Gb2/wB/Z//wb/8AAP///w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Drac"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAgAAAADgACICAAAA7u7uIgIA4O7u7iKJCFXl7l3imZgIUOXe3ZmJmahV5P3d35VZqFDi3d3fVCkIUOLd3d9UKQhV5P3d35VZqFDl3t2ZiZmoVeXuXeKZmAgA4O7u7iKJCAAAAO7u7iICAAAAAOAAIiIAAAAAAAAAAg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Princesa"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
